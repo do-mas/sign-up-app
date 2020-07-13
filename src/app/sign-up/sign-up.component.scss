@@ -1,0 +1,15 @@
+.sing-up-content {
+  button {
+    width: 100% !important;
+    margin-top: 2rem;
+  }
+
+  mat-form-field {
+    width: 20rem;
+  }
+
+  .name {
+    text-transform: capitalize;
+    font-weight: bold;
+  }
+}
